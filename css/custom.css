@@ -1,0 +1,27 @@
+body {
+	background-image: linear-gradient(#FFFFFF, #DDA0DD, #7FFFD4, #E6E6FA);
+	font-family:Times;
+}
+
+fieldset {
+	padding: 10px;
+	margin-top: 10px;
+	border: 1px solid #BA55D3;
+	border-radius: 8px;
+}
+
+legend {
+	padding: 6px;
+	margin-left: 40px;
+	width: auto;
+}
+
+#container-app {
+	background-color: #FFFFFF;
+	min-height: 100vh;
+}
+
+#container-form {
+	background-color: #FFFFFF;
+	min-height: 100vh;
+}
